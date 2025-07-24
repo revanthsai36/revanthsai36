@@ -1,6 +1,6 @@
 <h1>Hi, I'm Revanth! <a href="https://www.linkedin.com/in/rev-sai-/">I am a Data Engineer</a></h1>
 
-<img src="C:\Users\preva\Downloads\WhatsApp Image 2025-07-23 at 8.10.26 PM.jpeg"/>
+<img src="./profile.JPG" alt="Revanth Sai" width="150"/>
 📧 revanthsai276@gmail.com                            📞 +1 (602)-921-7089  
 
 ---

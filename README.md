@@ -1,7 +1,9 @@
+<<!-- Float the image to the right -->
+<img src="https://github.com/revanthsai36/revanthsai36/blob/main/Profile.JPG.jpeg?raw=true" alt="Revanth Sai" width="150" align="right" style="margin-left: 20px; border-radius: 8px;" />
+
 <h1>Hi, I'm Revanth! <a href="https://www.linkedin.com/in/rev-sai-/">I am a Data Engineer</a></h1>
 
-<img src="./profile.JPG" alt="Revanth Sai" width="150"/>
-📧 revanthsai276@gmail.com                            📞 +1 (602)-921-7089  
+📧 revanthsai276@gmail.com      📞 +1 (602)-921-7089  
 
 ---
 
@@ -65,31 +67,4 @@
   - **Care Utilization Tracker**
   - **Cost & Claims Insights**
   - **Chronic Risk Scoring**
-- Ensured HIPAA compliance and partnered with ML teams for dataset readiness.
-- Enabled CI/CD with Azure DevOps and documented audit processes.
-
-**Tech**: Azure Data Factory, Synapse, PySpark, SQL, Python, Azure DevOps, Cosmos DB, Power BI
-
----
-
-### 📌 Data Engineer – Warner Music Group (Jun 2019 – Aug 2021)  
-**Project: GCP-Based Streaming Analytics Platform**
-
-- Built batch and real-time pipelines for 500M+ monthly events from platforms like Spotify and YouTube.
-- Migrated legacy ETL from Oracle to GCP (DataProc + BigQuery).
-- Developed ingestion utilities and automated workflows with Airflow.
-- Created dashboards in Power BI and Tableau:
-  - **Fan Engagement Trends**
-  - **Global Revenue Insights**
-  - **Campaign Performance Monitor**
-- Supported ML pipelines for audience clustering, hit prediction, and retention modeling.
-
-**Tech**: DataProc, Composer, BigQuery, Snowflake, Spark, Docker, Python, Tableau, Power BI
-
----
-
-## 🎓 Education
-
-**Master of Science in Information Technology Management**  
-*AI Specialization*  
-University of Wisconsin-Milwaukee — Dec 2023
+- Ensured
